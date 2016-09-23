@@ -6,5 +6,7 @@ O objetivo do projeto <i>Yawl</i> é prover uma plataforma baseada em inteligên
 
 <h3>Como participar</h3>
 <p align="justify">
-Se você gosta de desafios e tem tempo para contribuir, faça um <i>Fork</i> do projeto e disponibilize suas implementações através de <i>pull requests</i>. Todos são bem vindos!
+Se você gosta de desafios e tem tempo para contribuir, faça um <i>Fork</i> do projeto e disponibilize suas implementações através de <i>pull requests</i>. Todos são bem vindos!<br><br>
+O backlog do projeto está disponível em: https://trello.com/b/uXBztoUT/yawl
+
 </p>
