@@ -1,0 +1,11 @@
+application: yawl-144521
+version: test
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /api/.*
+  script: src.main.APP
+  login: required
+  secure: always
