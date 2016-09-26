@@ -1,4 +1,4 @@
-import utils
+from src.util import utils
 
 class Proposal(object):
 
